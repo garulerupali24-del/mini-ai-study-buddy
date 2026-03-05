@@ -71,4 +71,5 @@ PyPDF2
 ### Study Workspace
 ![Workspace](screenshots/workspace.png)
 
-
+### Learning Progress Dashboard
+![ Progress](screenshots/ progress.png)
