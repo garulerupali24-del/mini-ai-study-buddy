@@ -105,7 +105,7 @@ mini-ai-study-buddy
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/mini-ai-study-buddy.git
+git clone https://github.com/garulerupali24-del/mini-ai-study-buddy.git
 ```
 
 ### 2. Navigate to the project directory
