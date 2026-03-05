@@ -72,4 +72,4 @@ PyPDF2
 ![Workspace](screenshots/workspace.png)
 
 ### Learning Progress Dashboard
-![ Progress](screenshots/ progress.png)
+![ Progress](screenshots/progress.png)
