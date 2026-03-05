@@ -8,51 +8,51 @@ Key Functionalities
 
 AI Tutor
 
-Allows students to ask questions and receive AI-generated explanations.
+- Allows students to ask questions and receive AI-generated explanations.
 
-Maintains conversation history for better contextual responses.
+- Maintains conversation history for better contextual responses.
 
-Includes an option to reset the conversation.
+- Includes an option to reset the conversation.
 
 Notes Summarizer
 
-Converts lengthy study notes into concise summaries.
+- Converts lengthy study notes into concise summaries.
 
-Helps students revise key concepts efficiently.
+- Helps students revise key concepts efficiently.
 
 Flashcards Generator
 
-Automatically generates flashcards from study material.
+- Automatically generates flashcards from study material.
 
-Supports quick revision and memorization.
+- Supports quick revision and memorization.
 
 Quiz Generator
 
-Creates multiple-choice quizzes from study content.
+- Creates multiple-choice quizzes from study content.
 
-Tracks scores and student performance.
+- Tracks scores and student performance.
 
 Study Workspace
 
-Provides an AI assistant alongside a note-taking interface.
+- Provides an AI assistant alongside a note-taking interface.
 
-Allows students to write and download their study notes.
+- Allows students to write and download their study notes.
 
 Progress Tracker
 
-Displays the number of quizzes taken.
+- Displays the number of quizzes taken.
 
-Calculates and shows the average quiz score.
+- Calculates and shows the average quiz score.
 
 Technology Stack
 
-Python
+- Python
 
-Streamlit
+- Streamlit
 
-Groq API (LLaMA Language Model)
+- Groq API (LLaMA Language Model)
 
-PyPDF2
+- PyPDF2
 
 ## Screenshots
 
