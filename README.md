@@ -190,12 +190,17 @@ The objective of this project is to build an **AI-powered learning assistant** t
 
 ---
 
-# Author
+## 👩‍💻 Author
 
 **Rupali Dadasaheb Garule**
 B.Tech – Computer Science and Engineering
 MSS's College of Engineering and Technology, Jalna
+
+
+🔗 GitHub: https://github.com/garulerupali24-del 
+
 Internship Project – 2026
+
 
 ---
 
