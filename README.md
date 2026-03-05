@@ -38,22 +38,6 @@ Streamlit
 Groq API (LLaMA Language Model)
 PyPDF2
 
-Project Structure
-
-mini-ai-study-buddy
-│
-├── app.py
-├── requirements.txt
-│
-├── modules
-│   ├── chat.py
-│   ├── summarizer.py
-│   ├── flashcards.py
-│   ├── quiz.py
-│   └── workspace.py
-│
-├── utils
-│   └── groq_client.py
 
 Installation
 
