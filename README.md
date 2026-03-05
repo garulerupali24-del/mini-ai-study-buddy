@@ -50,6 +50,10 @@ Python
 
 Streamlit
 
+Groq API (LLaMA Language Model)
+
+PyPDF2
+
 ## Screenshots
 
 ### AI Tutor Interface
@@ -68,6 +72,3 @@ Streamlit
 ![Workspace](screenshots/workspace.png)
 
 
-Groq API (LLaMA Language Model)
-
-PyPDF2
