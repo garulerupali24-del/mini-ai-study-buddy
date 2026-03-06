@@ -166,7 +166,7 @@ The application will automatically use the API key from the environment variable
 
 Download the project presentation:
 
-[presentation/Mini_AI_Study_Buddy_Presentation.pptx](presentation/Mini_AI_Study_Buddy_Presentation.pptx)
+[Mini AI Study Buddy – An AI-Powered Learning Assistant](presentation/Mini_AI_Study_Buddy_An_AI_Powered_Learning_Assistant.pptx)
 
 ---
 
